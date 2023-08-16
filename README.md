@@ -4,13 +4,12 @@ Hola! Mi nombre es Ivan Vilte 👋
 
 Sobre mí
 
-¡Hola! Soy [Tu Nombre], un entusiasta del desarrollo de software con experiencia en la creación de aplicaciones web y móviles. Mi pasión por resolver problemas y crear experiencias digitales excepcionales me llevó a sumergirme en el mundo del desarrollo Full Stack. Mi curiosidad insaciable y mi deseo de aprender me impulsan a mantenerme al día con las últimas tecnologías y mejores prácticas en el campo.
+Soy un entusiasta del desarrollo de software con experiencia en la creación de aplicaciones web y móviles. Mi pasión por resolver problemas y crear experiencias digitales excepcionales me llevó a sumergirme en el mundo del desarrollo Full Stack. Mi curiosidad insaciable y mi deseo de aprender me impulsan a mantenerme al día con las últimas tecnologías y mejores prácticas en el campo.
 
 Habilidades
 
 Frontend: Me encanta trabajar con tecnologías frontend para crear interfaces de usuario atractivas y receptivas. Mis herramientas principales incluyen HTML, CSS, JavaScript y frameworks como React, que utilizo para convertir ideas en experiencias visuales y funcionales.
-Backend: Con un enfoque en la seguridad, escalabilidad y rendimiento, manejo tecnologías backend como Node.js y Python. Diseño APIs eficientes y gestiono bases de datos para garantizar la integridad y la persistencia de los datos.
-Bases de datos: Tengo experiencia en el diseño y la gestión de bases de datos SQL y NoSQL, lo que me permite elegir la tecnología adecuada según los requisitos del proyecto. PostgreSQL, MySQL y MongoDB son algunas de las tecnologías que domino.
+Backend: Con un enfoque en la seguridad, escalabilidad y rendimiento, manejo tecnologías backend como Node.js y PostgresSQL. Diseño APIs eficientes y gestiono bases de datos para garantizar la integridad y la persistencia de los datos.
 Control de versiones: Utilizo herramientas de control de versiones como Git para colaborar de manera efectiva en equipos y mantener un historial de cambios preciso en mis proyectos.
 Despliegue y alojamiento: He trabajado con servicios en la nube como AWS y Heroku para implementar y alojar aplicaciones web de manera segura y eficiente.
 Proyectos Destacados
@@ -24,10 +23,7 @@ Próximos Pasos
 
 Estoy emocionado por seguir aprendiendo y creciendo en el campo del desarrollo Full Stack. Mis objetivos futuros incluyen explorar arquitecturas más avanzadas, como microservicios, así como profundizar mis conocimientos en seguridad informática y optimización de rendimiento.
 
-¡Conectemos!
-
-Si compartes mi pasión por la tecnología y el desarrollo, ¡me encantaría conectarte! No dudes en explorar mis proyectos en este repositorio y contactarme a través de mi dirección de correo electrónico [tu@email.com] o a través de LinkedIn [TuPerfilLinkedIn].
 
 ¡Gracias por visitar mi perfil!
 
-[Tu Nombre]
+Ivan Vilte
