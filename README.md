@@ -11,15 +11,10 @@ Habilidades
 Frontend: Me encanta trabajar con tecnologías frontend para crear interfaces de usuario atractivas y receptivas. Mis herramientas principales incluyen HTML, CSS, JavaScript y frameworks como React, que utilizo para convertir ideas en experiencias visuales y funcionales.
 Backend: Con un enfoque en la seguridad, escalabilidad y rendimiento, manejo tecnologías backend como Node.js y PostgresSQL. Diseño APIs eficientes y gestiono bases de datos para garantizar la integridad y la persistencia de los datos.
 Control de versiones: Utilizo herramientas de control de versiones como Git para colaborar de manera efectiva en equipos y mantener un historial de cambios preciso en mis proyectos.
-Despliegue y alojamiento: He trabajado con servicios en la nube como AWS y Heroku para implementar y alojar aplicaciones web de manera segura y eficiente.
-Proyectos Destacados
 
-A lo largo de mi trayectoria, he tenido la oportunidad de trabajar en diversos proyectos que demuestran mis habilidades y enfoque Full Stack:
 
 E-commerce Platform: Desarrollé una plataforma de comercio electrónico desde cero utilizando React para el frontend y Node.js para el backend. Integré pasarelas de pago y funcionalidades de carrito de compras para brindar una experiencia de compra sin problemas.
-Red Social Temática: Diseñé y construí una red social enfocada en una temática específica. Utilicé React para crear una interfaz interactiva y Firebase para gestionar la autenticación y el almacenamiento de datos.
 Aplicación de Tareas: Creé una aplicación de gestión de tareas con React en el frontend y una API REST desarrollada en Express en el backend. Implementé funcionalidades como la creación, actualización y eliminación de tareas.
-Próximos Pasos
 
 Estoy emocionado por seguir aprendiendo y creciendo en el campo del desarrollo Full Stack. Mis objetivos futuros incluyen explorar arquitecturas más avanzadas, como microservicios, así como profundizar mis conocimientos en seguridad informática y optimización de rendimiento.
 
